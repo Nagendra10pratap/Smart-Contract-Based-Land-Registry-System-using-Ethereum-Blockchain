@@ -1,7 +1,8 @@
 
 # Smart Contract Based Land Registry System using Ethereum Blockchain
 
-"C:\Users\Dell\OneDrive\Desktop\Land Registry.png"
+![Land Registry](https://github.com/Nagendra10pratap/Smart-Contract-Based-Land-Registry-System-using-Ethereum-Blockchain/assets/159735419/167babdb-6a35-4056-b590-5823dd85976d)
+
 
 ## Abstract
 
